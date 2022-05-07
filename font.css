@@ -1,0 +1,33 @@
+
+@font-face
+{
+	font-family: "Hhenum-Regular";
+	src: url("Hhenum-Regular.otf");
+}
+
+figure, h1
+{
+	text-align: center;
+}
+
+h2
+{
+	color: maroon;
+	font-family: "Hhenum-Regular";
+	font-size: 1.9em;
+}
+	
+
+ul 
+{
+	border: 2px black solid ;
+	box-shadow: 2px 2px 3px;
+
+}
+
+
+body
+{
+	background: url(fond.jpg);
+}
+
