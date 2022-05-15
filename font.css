@@ -31,3 +31,22 @@ body
 	background: url(fond.jpg);
 }
 
+
+@media screen and (max-width: 980px) {
+
+	.flottant1 {
+		border-radius: 100%;
+	}
+
+	h2 {
+		text-align: center;
+
+	}
+
+	ul {
+		text-align: center;
+		list-style: none;
+		padding: 0.5em;
+	}
+
+}
